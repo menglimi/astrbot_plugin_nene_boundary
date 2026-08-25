@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 宁宁边界与情感反馈插件（astrbot_plugin_nene_boundary）
 

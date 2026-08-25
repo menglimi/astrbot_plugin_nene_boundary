@@ -1,4 +1,4 @@
-﻿# -*- coding: utf-8 -*-
+# -*- coding: utf-8 -*-
 """
 判断引擎：LLM 判断消息类型 + 适合的关系档位（suitable_tier），插件算档位差距定 level。
 零常驻成本：只在有消息时按需调用；模型用 deepseek flash。
